@@ -7,10 +7,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <title>Document</title>
 </head>
+
 <body>
 
-<style>
-
+    <style>
         .btn {
             background-color: #0a0744ff;
             color: white;
@@ -22,12 +22,12 @@
             align-self: flex-start;
         }
 
-        .btn{
+        .btn {
             background-color: #0a0744ff;
             transform: scale(1.05);
             color: white;
         }
-</style>
+    </style>
 
     <?php require 'header.php'; ?>
 
@@ -35,7 +35,7 @@
         <h1 class="display-5 fw-bold text-body-emphasis">Erreur ! </h1>
         <div class="col-lg-6 mx-auto">
             <p class="lead mb-4">Votre message n’a pas pu être envoyé, l’adresse e-mail est incorrecte.</br>
-L’équipe Fiatope INVEST.</p>
+                L’équipe Fiatope INVEST.</p>
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
                 <a href="contact.php" class="btn btn-outline-secondary btn-lg px-4">Revenir à la page Contact</a>
             </div>
@@ -44,12 +44,11 @@ L’équipe Fiatope INVEST.</p>
 
 </body>
 
-<!--lutilisateur peut plus repartir a  la page precedente-->
+<!--lutilisateur peut plus repartir a  la page precedente EVITE CONFUSION-->
 <script>
     if (window.history.replaceState) {
         window.history.replaceState(null, '', 'index.php');
     }
-    
 </script>
 <?php require 'footer.php'; ?>
 </body>

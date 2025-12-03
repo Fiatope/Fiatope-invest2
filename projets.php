@@ -122,7 +122,7 @@
                 <!-- Projet 1 -->
                 <div class="col-lg-4 col-md-6">
                     <div class="project-card">
-                        <img src="./bioanipics.avif" alt="Projet 1">
+                        <img src="bioanipics.avif" alt="Projet 1">
                         <div class="project-card-body">
                             <h3 class="project-card-title">Bioani</h3>
                             <p class="project-card-description"style="text-align:justify">
@@ -136,7 +136,7 @@
                 <!-- Projet 2 -->
                 <div class="col-lg-4 col-md-6">
                     <div class="project-card">
-                        <img src="./picture/maisonfanel.jpeg" alt="Projet 2">
+                        <img src="maisonfanel.jpeg" alt="Projet 2">
                         <div class="project-card-body">
                             <h3 class="project-card-title">Maison Fenel</h3>
                             <p class="project-card-description"style="text-align:justify">
@@ -150,7 +150,7 @@
                 <!-- Projet 3 -->
                 <div class="col-lg-4 col-md-6">
                     <div class="project-card">
-                        <img src="./picture/bobo.jpg" alt="Projet 3">
+                        <img src="bobo.jpg" alt="Projet 3">
                         <div class="project-card-body">
                             <h3 class="project-card-title">Madinina Foods</h3>
                             <p class="project-card-description"style="text-align:justify">

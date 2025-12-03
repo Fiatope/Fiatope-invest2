@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <style>
     #notre-histoire {
-        background-color: #090642ff!important;
+        background-color: #090642ff !important;
     }
 
     #notre-histoire h1 {
@@ -181,7 +181,7 @@
                 <div class="col-lg-7 col-md-10 mb-4 d-flex align-items-center">
                     <div class="p-4 ">
                         <h3 class="display-6 fw-bold mb-3" style="color: #0a0744ff; font-size: 1.5rem;">Nous donnons du sens au capital que vous investissez.
-</h3>
+                        </h3>
                         <p style="color: #000000ff; line-height: 1.8; font-size: 1.1rem;">Pour concilier performance financière et utilité sociale sans compromis, en orientant vos ressources vers des initiatives qui créent de la valeur, renforcent la cohésion sociale et génèrent un impact positif durable au cœur des économies africaines.</p>
                     </div>
                 </div>

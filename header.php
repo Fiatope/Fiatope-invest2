@@ -210,7 +210,7 @@
         <div class="container">
             <header class="d-flex flex-wrap justify-content-between align-items-center py-2">
                 <a href="index.php" class="logo-container text-decoration-none">
-                    <img src="./picture/logo (1).png" alt="Fiatope Invest Logo">
+                    <img src="logo (1).png" alt="Fiatope Invest Logo">
                 </a>
                 <ul class="nav d-flex align-items-center">
                     <li class="nav-item"><a href="index.php" class="nav-link <?php echo isActivePage('accueil', $current_page); ?>">Accueil</a></li>

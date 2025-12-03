@@ -51,7 +51,7 @@
                 Entreprise
             </h1>
             <div class="text-center mb-5 py-3">
-                <img src="./picture/entreprise.jpg" alt="Entreprise Fiatope Invest" class="img-fluid" style="max-width: 1050px;">
+                <img src="entreprise.jpg" alt="Entreprise Fiatope Invest" class="img-fluid" style="max-width: 1050px;">
             </div>
             <div class="container px-4 py-3">
                 <div class="row align-items-start g-5">
@@ -110,7 +110,7 @@
         <div class="container mb-5">
             <h2 class="text-center mb-5 py-3" style="color: white; font-weight: 700; font-size: 2.5rem;">Actionnaire Fiatope Invest</h2>
             <div class="text-center mb-5 py-3">
-                <img src="./picture/coequipiers-d-affaires-travaillant-tard.jpg" alt="Actionnaire" class="img-fluid" style="max-width: 1050px;">
+                <img src="coequipiers-d-affaires-travaillant-tard.jpg" alt="Actionnaire" class="img-fluid" style="max-width: 1050px;">
             </div>
             <div class="row align-items-start">
                 <div class="col-lg-6 mb-4">
@@ -144,7 +144,7 @@
         <div class="container">
             <h2 class="text-center mb-5 py-3" style="color: #0a0744ff; font-weight: 700; font-size: 2.5rem;">Investisseur</h2>
             <div class="text-center mb-5 py-3">
-                <img src="./picture/un-investisseur-regardant-les-graphiques-de-la-bourse-sur-un-ecran-d-ordinateur.jpg" alt="Actionnaire" class="img-fluid" style="max-width: 1050px;">
+                <img src="un-investisseur-regardant-les-graphiques-de-la-bourse-sur-un-ecran-d-ordinateur.jpg" alt="Actionnaire" class="img-fluid" style="max-width: 1050px;">
             </div>
 
             <div class="row align-items-start">

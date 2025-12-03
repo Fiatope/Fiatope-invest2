@@ -12,6 +12,7 @@
         #article {
             scroll-margin-top: 100px;
         }
+
         body {
             font-family: 'Inter', sans-serif;
         }
@@ -173,13 +174,13 @@
                         Alors mieux vaut jouer franc jeu, s’affirmer en leader unique et montrer qu’on est capable d’emmener l’équipe vers la vision tracée.</p>
 
                     <p>Enfin chers Entrepreneurs, j’ai une excellente nouvelle pour nous ! Le succès ne dépend pas nécessairement de notre disposition à lever des fonds de capital risque ou de venture capital. Il dépend plutôt de notre bonne jugeote face à nos besoins de développement et de notre intelligence dans la façon de les adresser. A titre d’exemples :</br>
-                        <ul>
+                    <ul>
                         <li>Se développer avec des collaborateurs qui comprennent l’esprit entrepreneurial, c’est-à-dire qui s’investissent et modulent leurs exigences par rapport aux capacités financières de la startup</li>
                         <li>Inculquer à l’équipe et s’imposer à soi en tant que fondateur l’idée que tous les coûts opérationnels doivent être réduits à leur plus petite valeur possible.</li>
                         <li>Cultiver la polyvalence: une fois le produit devenu mature, le membre de l’équipe qui tenait la fonction de chef de produit peut évoluer vers celle de busines développer et chargé de relation client, ce qui permet de pourvoir ces rôles sans recruter.</li>
                         <li>Se positionner pour des subventions et des appels à projet, chaque fois que l’opportunité se présente et qu’elle est pertinente pour la startup, sans y consacrer plus de 5 à 10% du temps opérationnel utile.
-                        Etc.</li>
-    </br>Disons nous une chose et une fois pour toutes: nous aurons le succès pas parce que nous aurons recruté 3 cadors, ni parce que nous nous serons développés à l’international, ni encore moins parce que nous aurons levé 500 00 Euros, ni d’ailleurs parce que nous aurons trouvé un co-fondateur. Ce sera parce que nous aurons mis en exergue une approche très prometteuse pour dérouler notre modèle économique.</p>
+                            Etc.</li>
+                        </br>Disons nous une chose et une fois pour toutes: nous aurons le succès pas parce que nous aurons recruté 3 cadors, ni parce que nous nous serons développés à l’international, ni encore moins parce que nous aurons levé 500 00 Euros, ni d’ailleurs parce que nous aurons trouvé un co-fondateur. Ce sera parce que nous aurons mis en exergue une approche très prometteuse pour dérouler notre modèle économique.</p>
                 </div>
 
                 <div class="col-md-4">
@@ -226,9 +227,9 @@
         </div>
     </main>
 
-        <div class="mb-5 pb-5"></div>
+    <div class="mb-5 pb-5"></div>
 
-        <?php require'footer.php'; ?>
+    <?php require 'footer.php'; ?>
 
 </body>
 

@@ -11,10 +11,10 @@
     <style>
         body {
             font-family: 'Inter', sans-serif;
-            color:white !important;
+            color: white !important;
         }
 
-         .btn {
+        .btn {
             background-color: #0a0744ff;
             color: white;
             border: 1px solid #0a0744ff !important;
@@ -25,13 +25,11 @@
 
         }
 
-        .btn{
+        .btn {
             background-color: #0a0744ff;
             transform: scale(1.05);
             color: white;
         }
-
-       
     </style>
 </head>
 
@@ -44,7 +42,7 @@
                 <h1 class="display-4 fw-bold lh-1 text-body-emphasis mb-3" style="color: white!important;">Contactez-nous !</h1>
                 <p class="fs-4" style="font-size: 20px!important;">Une question ? Besoin d’un renseignement ? N’hésitez pas à nous contacter !</p>
             </div>
-            <div  class="col-lg-6">
+            <div class="col-lg-6">
                 <form method="post" action="send_email.php" class="p-4 p-md-5 border rounded-3" style="background:white;">
                     <div class="row mb-3">
                         <div class="col-md-6">
@@ -68,10 +66,10 @@
                         <textarea class="form-control" id="floatingMessage" name="message" placeholder="Votre message" style="height: 120px" required></textarea>
                         <label for="floatingMessage">Message</label>
                     </div>
-                        <div class="text-center">
-                            <button class="btn btn-lg btn-primary px-5" type="submit">Envoyer</button>
-                        </div>
-                    </form>
+                    <div class="text-center">
+                        <button class="btn btn-lg btn-primary px-5" type="submit">Envoyer</button>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
@@ -79,10 +77,10 @@
 
 
 
-        <div class="mb-5 pb-5"></div>
+    <div class="mb-5 pb-5"></div>
 
 
-        <div class="mb-5 pb-5"></div>
+    <div class="mb-5 pb-5"></div>
 
 
 

@@ -1,13 +1,14 @@
-
 <style>
     #footer {
         color: white;
-            padding-top: 2rem;
+        padding-top: 2rem;
     }
+
     svg {
         -webkit-filter: invert(100%);
         filter: invert(100%);
     }
+
     .btn {
         background-color: #ffffff;
         color: #0e096bff;
@@ -15,6 +16,7 @@
         border: none;
         padding: 10px 20px;
     }
+
     .btn:hover {
         background-color: #f0f0f0;
         color: #0e096bff;
@@ -60,4 +62,3 @@
         </footer>
     </div>
 </div>
-

@@ -22,6 +22,43 @@
             background-color: #090642ff !important;
         }
 
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                overflow-x: hidden;
+            }
+            .row {
+                margin-right: 0;
+                margin-left: 0;
+            }
+            .col-lg-6,
+            .col-lg-5,
+            .col-lg-1 {
+                padding-right: 8px;
+                padding-left: 8px;
+            }
+            #entreprise ul {
+                font-size: 16px !important;
+            }
+            h2.fw-bold {
+                font-size: 1.2rem !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+            #entreprise ul {
+                font-size: 14px !important;
+            }
+            h2.fw-bold {
+                font-size: 1rem !important;
+            }
+            .lead {
+                font-size: 0.9rem !important;
+            }
+            .p-3 {
+                padding: 0.5rem !important;
+            }
+        }
  
     </style>
 </head>
@@ -57,7 +94,7 @@
                 <div class="row align-items-start g-5">
                     <div class="col-lg-6">
                         <div class="mb-6 pb-4 ">
-                            <h2 class="fw-bold text-body-emphasis lh-1 mb-4" style="margin-left: 10px;">
+                            <h2 class="fw-bold text-body-emphasis lh-1 mb-4">
                                 <span style="color:black">Nos critères de sélection :</span>
                             </h2>
                             <ul class="mb-6 py-3" style="text-align: justify;">
@@ -67,8 +104,8 @@
                                 <li>Développement commercial soutenu : Minimum 2 ans d'activité et un chiffre d'affaires moyen de 25 millions FCFA.</li>
                             </ul>
                             <div class="mt-4 mb-1">
-                                <h2 class="fw-bold text-body-emphasis lh-1 mb-3 py-3 " style="margin-left: 10px;">
-                                    <span style=" color:black;">Secteurs éligibles :</span>
+                                <h2 class="fw-bold text-body-emphasis lh-1 mb-3 py-3 ">
+                                    <span style="color:black;">Secteurs éligibles :</span>
                                 </h2>
                                 <div class="d-flex flex-wrap gap-2 justify-content-center mb-3 py-3">
                                     <span class="badge  fs-6">Agro-alimentaire</span>
@@ -81,8 +118,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="mb-6 pb-4 " style="margin-left: 40px;">
-                            <h2 class="fw-bold text-body-emphasis lh-1 mb-4" style="margin-left: 10px;">
+                        <div class="mb-6 pb-4 ">
+                            <h2 class="fw-bold text-body-emphasis lh-1 mb-4">
                                 <span style="color:black;">Les ressources fournies :</span>
                             </h2>
                             <ul class=" mb-6 py-3" style="text-align: justify;">
@@ -115,8 +152,8 @@
             <div class="row align-items-start">
                 <div class="col-lg-6 mb-4">
                     <div class="mb-4">
-                        <p class="lead mt-3" style="text-align: justify; color:white; margin-left: 33px;">
-                            Notre vision est claire : faire de l’investissement une passerelle durable entre la diaspora et les pépites africaines à fort potentiel.
+                        <p class="lead mt-3" style="text-align: justify; color:white;">
+                            Notre vision est claire : faire de l'investissement une passerelle durable entre la diaspora et les pépites africaines à fort potentiel.
                             Et pour cela, nous avons besoin de vous, de celles et ceux qui croient en l’Afrique, en son ingéniosité, en sa capacité à produire des solutions concrètes. En devenant actionnaire, vous participez directement aux décisions stratégiques, vous contribuez à la continuité de l’activité et vous soutenez des entrepreneurs !
                         </p>
                     </div>
@@ -124,7 +161,7 @@
                 <div class="col-lg-1"></div> <!-- Espace entre les deux colonnes -->
                 <div class="col-lg-5 mb-4">
                     <div class="mb-4">
-                        <h3 class="fw-bold mb-4 mt-3" style="color: white; margin-left: 10px;">Comment nous rejoindre ?</h3>
+                        <h3 class="fw-bold mb-4 mt-3" style="color: white;">Comment nous rejoindre ?</h3>
                         <ul class="lead" style="color:white;">
                             <li>Lire les statuts de Fiatope Invest.</li>
                             <li>Signer le pacte d'actionnariat.</li>
@@ -132,7 +169,7 @@
                         </ul>
                     </div>
                 </div>
-                <p class="lead" style="color: white; margin-left: 33px;">Si vous souhaitez soutenir notre structure en devenant actionnaire, contactez-nous à fiatope.invest@gmail.com.</p>
+                <p class="lead" style="color: white;">Si vous souhaitez soutenir notre structure en devenant actionnaire, contactez-nous à fiatope.invest@gmail.com.</p>
             </div>
         </div>
     </div>
@@ -150,16 +187,15 @@
             <div class="row align-items-start">
                 <div class="col-lg-6 mb-4">
                     <div class="mb-4">
-                        <p class="lead mt-3" style="text-align: justify; color:black; margin-left: 33px;">
-
-                            Participer à nos levées de fonds, c’est non seulement entrer au capital d’entreprises prometteuses, mais aussi devenir un acteur clé du financement de l’entrepreneuriat en Afrique. À travers votre engagement, vous permettez à ces entreprises d’accéder aux ressources indispensables pour se développer, innover et créer des emplois.
+                        <p class="lead mt-3" style="text-align: justify; color:black;">
+                            Participer à nos levées de fonds, c'est non seulement entrer au capital d'entreprises prometteuses, mais aussi devenir un acteur clé du financement de l'entrepreneuriat en Afrique. À travers votre engagement, vous permettez à ces entreprises d'accéder aux ressources indispensables pour se développer, innover et créer des emplois.
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div> <!-- Espace entre les deux colonnes -->
                 <div class="col-lg-5 mb-4">
                     <div class="mb-4">
-                        <h3 class="fw-bold mb-4 mt-3 " style="color: black; margin-left: 10px;">Votre investissement aide à :</h3>
+                        <h3 class="fw-bold mb-4 mt-3 " style="color: black;">Votre investissement aide à :</h3>
                         <ul class="lead" style="color:black;">
                             <li>L’achat d’équipements stratégiques pour accroître la production.</li>
                             <li>La digitalisation des entreprises.</li>
@@ -167,9 +203,7 @@
                         </ul>
                     </div>
                 </div>
-                <p class="lead" style="color: black; margin-left: 33px;">Il vous suffit de nous écrire à fiatope.invest@gmail.com pour une présentation plus détaillé des projets en cours.
-
-                    Ne laissez pas passer cette opportunité ! Rejoignez dès aujourd’hui l’aventure et faites partie de ceux qui façonnent l’avenir de l’entrepreneuriat en Afrique</p>
+                <p class="lead" style="color: black;">Il vous suffit de nous écrire à fiatope.invest@gmail.com pour une présentation plus détaillé des projets en cours. Ne laissez pas passer cette opportunité ! Rejoignez dès aujourd'hui l'aventure et faites partie de ceux qui façonnent l'avenir de l'entrepreneuriat en Afrique</p>
             </div>
         </div>
     </div>

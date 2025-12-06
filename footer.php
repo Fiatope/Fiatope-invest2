@@ -23,7 +23,7 @@
     }
 </style>
 
-<div class="container-fluid " style="background-color: #050324ff" id="footer">
+<div class="container-fluid" style="background-color: #050324ff; padding-left: 0; padding-right: 0;" id="footer">
     <div class="container">
         <footer class="py-3">
             <div class="row">
@@ -39,10 +39,45 @@
                 </div>
 
                 <div class="col-md-5 offset-md-3 mb-3">
-                    <form>
-                        <h5 class="mb-4">Rejoindre la Newsletter !</h5>
-                        <div class=" d-flex flex-column flex-sm-row w-100 gap-2"> <label for="newsletter1" class="visually-hidden">Adresse e-mail</label> <input id="newsletter1" type="email" class="form-control" placeholder="Email address"> <button class="btn" type="button">S'inscrire</button> </div>
-                    </form>
+                    <div id="mc_embed_shell">
+                        <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+                        <style type="text/css">
+                            #mc_embed_signup {
+                                background: none;
+                                false;
+                                clear: left;
+                                font: 14px Helvetica, Arial, sans-serif;
+                                width: px;
+                            }
+
+                            /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                        </style>
+                        <div id="mc_embed_signup">
+                            <form action="https://fiatope.us2.list-manage.com/subscribe/post?u=27356ee1e74bf8355913e00bb&amp;id=ad94e8ecdb&amp;f_id=001111e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+                                <div id="mc_embed_signup_scroll">
+                                    <h2>Rejoindre la Newsletter</h2>
+                                    <div class="indicates-required"><span class="asterisk">*</span> indique "obligatoire"</div>
+                                    <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+                                    <div id="mce-responses" class="clear foot">
+                                        <div class="response" id="mce-error-response" style="display: none;"></div>
+                                        <div class="response" id="mce-success-response" style="display: none;"></div>
+                                    </div>
+                                    <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                                        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+                                        <input type="text" name="b_27356ee1e74bf8355913e00bb_ad94e8ecdb" tabindex="-1" value="">
+                                    </div>
+                                    <div class="optionalParent">
+                                        <div class="clear foot">
+                                            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                                            <p style="margin: 0px auto;"><a href="http://eepurl.com/iQeqDk" title="Avec Mailchimp, les campagnes de marketing par e-mail sont un jeu d'enfant"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit&nbsp;Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
                 </div>
             </div>
             <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">

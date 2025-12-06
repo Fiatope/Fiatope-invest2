@@ -1,4 +1,5 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -16,18 +17,18 @@ try {
     $mail->isSMTP();
     $mail->Host       = "smtp.gmail.com";
     $mail->SMTPAuth   = true;
-    $mail->Username   = "niangadji02@gmail.com"; 
-    $mail->Password   = "oome cniy rtju knii"; // mot de passe d'application
+    $mail->Username   = "fiatopinvest@gmail.com";
+    $mail->Password   = "kyyo neeu esjj vzhm"; // mot de passe d'application
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port       = 587;
 
-    $mail->setFrom("niangadji02@gmail.com", "FIATOPE INVEST");
+    $mail->setFrom("fiatopinvest@gmail.com", "FIATOPE INVEST");
 
     $mail->addReplyTo($email, $name);
 
-    $mail->addAddress("niangadji02@gmail.com", "Adji");
+    $mail->addAddress("fiatopinvest@gmail.com", "Adji");
 
-    
+
     $mail->isHTML(true);
     $mail->Subject = $subject;
     $mail->Body    = "Nom : $name <br>Email : $email <br>Sujet: $subject <br>Message : $message";

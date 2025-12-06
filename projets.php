@@ -4,14 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nos Projets - Fiatope Invest</title>
+    <title>Fiatope Invest - Nos Projets</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #ffc0cb;
+        .container p {
+            font-family: 'Inter', sans-serif !important;
+            font-weight: 360 !important;
+            font-size: 17px;
         }
+
 
         .projects-section {
             padding: 60px 0;
@@ -125,7 +127,7 @@
                         <img src="bioanipics.avif" alt="Projet 1">
                         <div class="project-card-body">
                             <h3 class="project-card-title">Bioani</h3>
-                            <p class="project-card-description"style="text-align:justify">
+                            <p class="project-card-description" style="text-align:justify">
                                 Bioani est une entreprise spécialisée dans l’élevage de larves de mouches soldats noires, nourries à partir de déchets organiques collectés auprès d’acteurs privés et publics. Grâce à ce processus circulaire, l’entreprise produit des protéines d’insectes destinées à l’alimentation animale ainsi que du fertilisant organique pour l’agriculture. Bioani a été accompagnée par Fiatope Invest, qui a soutenu le développement de son activité par une levée de fonds de 50 000 euros.
                             </p>
                             <a href="https://www.bioanifarm.com/" class="btn btn-project">En savoir plus</a>
@@ -139,7 +141,7 @@
                         <img src="maisonfanel.jpeg" alt="Projet 2">
                         <div class="project-card-body">
                             <h3 class="project-card-title">Maison Fenel</h3>
-                            <p class="project-card-description"style="text-align:justify">
+                            <p class="project-card-description" style="text-align:justify">
                                 La Maison Fenel met en valeur le savoir-faire burkinabè en transformant le Faso Danfani (pagne tissé) en accessoires modernes, élégants et fonctionnels. L’entreprise ambitionne d’en faire une référence de la mode et du quotidien au Burkina Faso et dans la sous-région. Elle a levé 30 000 € auprès de Fiatope Invest, répartis à parts égales entre capital et compte courant d’associé, afin de financer l’ouverture de son nouveau showroom.
                             </p>
                             <a href="https://www.lamaisonfenel.com/" class="btn btn-project">En savoir plus</a>
@@ -153,9 +155,9 @@
                         <img src="bobo.jpg" alt="Projet 3">
                         <div class="project-card-body">
                             <h3 class="project-card-title">Madinina Foods</h3>
-                            <p class="project-card-description"style="text-align:justify">
+                            <p class="project-card-description" style="text-align:justify">
 
-Madinina Foods (Biscuiterie bobo) est une entreprise camerounaise engagée dans la valorisation des matières premières locales à travers la production de biscuits et snacks élaborés à partir de farines locales. Alliant qualité, authenticité et savoir-faire, elle propose une gamme variée de produits adaptés aux goûts des consommateurs. Madinina Foods commercialise ses produits en vente directe ainsi qu’au sein de petites et moyennes surfaces.
+                                Madinina Foods (Biscuiterie bobo) est une entreprise camerounaise engagée dans la valorisation des matières premières locales à travers la production de biscuits et snacks élaborés à partir de farines locales. Alliant qualité, authenticité et savoir-faire, elle propose une gamme variée de produits adaptés aux goûts des consommateurs. Madinina Foods commercialise ses produits en vente directe ainsi qu’au sein de petites et moyennes surfaces.
                             </p>
                             <a href="https://biscuiteriebobocom.wordpress.com/" class="btn btn-project">En savoir plus</a>
                         </div>

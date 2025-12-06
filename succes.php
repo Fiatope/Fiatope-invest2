@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <title>Document</title>
+    <title>Fiatope Invest</title>
 </head>
+
 <body>
 
-<style>
-
+    <style>
         .btn {
             background-color: #0a0744ff;
             color: white;
@@ -22,12 +22,12 @@
             align-self: flex-start;
         }
 
-        .btn{
+        .btn {
             background-color: #0a0744ff;
             transform: scale(1.05);
             color: white;
         }
-</style>
+    </style>
 
     <?php require 'header.php'; ?>
 
@@ -48,7 +48,6 @@
     if (window.history.replaceState) {
         window.history.replaceState(null, '', 'index.php');
     }
-    
 </script>
 <?php require 'footer.php'; ?>
 </body>

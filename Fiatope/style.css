@@ -1,0 +1,13 @@
+
+        
+        #navigationbar .nav-link:hover {
+            color: #140db3;
+            border-bottom-color: #140db3;
+        }
+
+        #navigationbar .nav-link.active {
+            color: #140db3;
+            font-weight: 600;
+            border-bottom-color: #140db3;
+        }
+

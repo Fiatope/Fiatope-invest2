@@ -235,7 +235,7 @@
                         </div>
                     </li>
                     <li class="nav-item"><a href="projets.php" class="nav-link <?php echo isActivePage('projets', $current_page); ?>">Projets</a></li>
-                    <li class="nav-item"><a href="Articles.php" class="nav-link <?php echo isActivePage('Articles', $current_page); ?>">Articles</a></li>
+                    <li class="nav-item"><a href="Articles.php" class="nav-link <?php echo isActivePage('Articles', $current_page); echo isActivePage('article1', $current_page); echo isActivePage('article2', $current_page); echo isActivePage('article3', $current_page);?>">Articles</a></li>
                     <li class="nav-item"><a href="Fiatopeangels.php" class="nav-link <?php echo isActivePage('Fiatopeangels', $current_page); ?>">Fiatope Angels</a></li>
                     <li class="nav-item"><a href="contact.php" class="nav-link <?php echo isActivePage('contact', $current_page); ?>">Contact</a></li>
                 </ul>

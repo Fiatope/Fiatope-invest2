@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devenir acteur - Fiatope Invest</title>
+    <title>Fiatope Invest - Devenir Acteur</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
@@ -65,7 +65,7 @@
 
 <body>
     <?php require 'header.php'; ?>
-    <div style="background-color: #090642ff; margin-top: -40px; padding-top: 40px;">
+    <div style="background-color: #08053aff; margin-top: -40px; padding-top: 40px;">
         <div class="container col-xxl-8 px-4 py-5">
             <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                 <div class="col-10 col-sm-8 col-lg-6">
@@ -74,7 +74,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3" style="color: white!important; font-weight: 700; font-size: 2.4rem;">Devenir acteur : les 3 voies</h1>
+                    <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-5" style="color: white!important; font-weight: 700; font-size: 2.4rem;">Devenir acteur : les 3 voies</h1>
                     <p class="lead" style="text-align: justify; color: white;">Chez Fiatope Invest, notre mission est de transformer l'ambition en impact. Que vous soyez un entrepreneur à la recherche de capital, une personne souhaitant soutenir notre structure, ou un investisseur désireux de financer un projet spécifique, découvrez comment vous pouvez devenir un moteur de la croissance africaine.</p>
                 </div>
             </div>
@@ -143,7 +143,7 @@
     <div class="mb-3 pb-3"></div>
 
 
-    <div id="actionnaire" style="background-color: #090642ff; padding-top: 80px; padding-bottom: 20px;">
+    <div id="actionnaire" style="background-color: #08053aff; padding-top: 80px; padding-bottom: 20px;">
         <div class="container mb-5">
             <h2 class="text-center mb-5 py-3" style="color: white; font-weight: 700; font-size: 2.5rem;">Actionnaire Fiatope Invest</h2>
             <div class="text-center mb-5 py-3">
@@ -211,7 +211,6 @@
 
     <div class="mb-5 pb-5"></div>
 
-    <div class="mb-5 pb-5"></div>
 
 
 

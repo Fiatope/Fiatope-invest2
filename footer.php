@@ -9,17 +9,22 @@
         filter: invert(100%);
     }
 
-    .btn {
-        background-color: #ffffff;
-        color: #0e096bff;
-        font-weight: bold;
-        border: none;
-        padding: 10px 20px;
+
+    .button {
+        background-color: #050324ff!important;
+        color: white !important;
+        border: 1px solid white!important;
+        padding: 12px 30px;
+        border-radius: 10px !important;
+        font-weight: 500 !important;
+        transition: all 0.3s ease;
+        align-self: flex-start;
     }
 
-    .btn:hover {
-        background-color: #f0f0f0;
-        color: #0e096bff;
+    .button:hover {
+        background-color: #050324ff!important;
+        transform: scale(1.05);
+        color: white!important;
     }
 </style>
 
@@ -39,14 +44,16 @@
                 </div>
 
                 <div class="col-md-5 offset-md-3 mb-3">
+
+
                     <div id="mc_embed_shell">
                         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
                         <style type="text/css">
                             #mc_embed_signup {
                                 background: none;
-                                false;
+                                margin-top: -1.5rem;
                                 clear: left;
-                                font: 14px Helvetica, Arial, sans-serif;
+                                font: 14px Inter, sans-serif;
                                 width: px;
                             }
 
@@ -57,8 +64,7 @@
                             <form action="https://fiatope.us2.list-manage.com/subscribe/post?u=27356ee1e74bf8355913e00bb&amp;id=ad94e8ecdb&amp;f_id=001111e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
                                 <div id="mc_embed_signup_scroll">
                                     <h2>Rejoindre la Newsletter</h2>
-                                    <div class="indicates-required"><span class="asterisk">*</span> indique "obligatoire"</div>
-                                    <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+                                    <div class="mc-field-group"><label for="mce-EMAIL">Adresse E-mail : </label> </br><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
                                     <div id="mce-responses" class="clear foot">
                                         <div class="response" id="mce-error-response" style="display: none;"></div>
                                         <div class="response" id="mce-success-response" style="display: none;"></div>
@@ -70,13 +76,13 @@
                                     <div class="optionalParent">
                                         <div class="clear foot">
                                             <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                                            <p style="margin: 0px auto;"><a href="http://eepurl.com/iQeqDk" title="Avec Mailchimp, les campagnes de marketing par e-mail sont un jeu d'enfant"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit&nbsp;Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
                                         </div>
                                     </div>
                                 </div>
                             </form>
                         </div>
                     </div>
+
 
                 </div>
             </div>

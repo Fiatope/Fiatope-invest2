@@ -66,7 +66,7 @@
 
             <div class="container col-xxl-8 px-4 py-5 mb-2">
                 <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-                    <div class="col-10 col-sm-8 col-lg-6"> <img src="qui sommesnous.jfif" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="400" height="200" loading="lazy"> </div>
+                    <div class="col-10 col-sm-8 col-lg-6"> <img src="qui sommesnous.jfif" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="400" height="200" loading="eager"> </div>
                     <div class="col-lg-6">
                         <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Qui sommes-nous?</h1>
                         <p class="lead text-white" style="text-align: justify;"></br>
@@ -179,7 +179,7 @@
                 <h2 class="text-center mb-5" style="color: #0a0744ff; font-weight: 700; font-size: 2.5rem;">Nos Missions</h2>
                 <div class="row justify-content-center align-items-center border rounded shadow-sm w-100 mb-3" style="background-color: white;  transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='';">
                     <div class="col-lg-5 col-md-8 mb-2 d-flex align-items-center justify-content-center py-4">
-                        <img src="entrepreneur-noir-presentant-une-nouvelle-idee-de-projet-a-un-actionnaire.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="lazy" style="object-fit: cover;">
+                        <img src="entrepreneur-noir-presentant-une-nouvelle-idee-de-projet-a-un-actionnaire.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="auto" style="object-fit: cover;">
                     </div>
                     <div class="col-lg-7 col-md-10 mb-4 d-flex align-items-center">
                         <div class="p-4 ">
@@ -191,7 +191,7 @@
 
                 <div class="row justify-content-center align-items-center border rounded shadow-sm w-100 mb-3" style="background-color: white; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='';">
                     <div class="col-lg-5 col-md-8 mb-2 d-flex align-items-center justify-content-center py-4">
-                        <img src="discussion-en-groupe-des-femmes.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="lazy" style="object-fit: cover;">
+                        <img src="discussion-en-groupe-des-femmes.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="auto" style="object-fit: cover;">
                     </div>
                     <div class="col-lg-7 col-md-10 mb-4 d-flex align-items-center">
                         <div class="p-4 ">
@@ -204,7 +204,7 @@
 
                 <div class="row justify-content-center align-items-center border rounded shadow-sm w-100 mb-3" style="background-color: white; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='';">
                     <div class="col-lg-5 col-md-8 mb-2 d-flex align-items-center justify-content-center py-4">
-                        <img src="un-homme-d-affaires-debout-a-sa-table.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="lazy" style="object-fit: cover;">
+                        <img src="un-homme-d-affaires-debout-a-sa-table.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="auto" style="object-fit: cover;">
                     </div>
                     <div class="col-lg-7 col-md-10 mb-4 d-flex align-items-center">
                         <div class="p-4 ">
@@ -217,7 +217,7 @@
 
                 <div class="row justify-content-center align-items-center border rounded shadow-sm w-100 mb-3" style="background-color: white; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='';">
                     <div class="col-lg-5 col-md-8 mb-2 d-flex align-items-center justify-content-center py-4">
-                        <img src="un-technicien-afro-americain-verifie-l-entretien-des-panneaux-solaires-groupe-de-trois-ingenieurs-noirs-reunis-a-la-station-solaire.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="lazy" style="object-fit: cover;">
+                        <img src="un-technicien-afro-americain-verifie-l-entretien-des-panneaux-solaires-groupe-de-trois-ingenieurs-noirs-reunis-a-la-station-solaire.jpg" class="img-fluid rounded shadow" alt="Investir PME Afrique" width="350" height="350" loading="auto" style="object-fit: cover;">
                     </div>
                     <div class="col-lg-7 col-md-10 mb-4 d-flex align-items-center">
                         <div class="p-4 ">

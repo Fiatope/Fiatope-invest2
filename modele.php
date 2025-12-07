@@ -27,19 +27,23 @@
             .container {
                 overflow-x: hidden;
             }
+
             .row {
                 margin-right: 0;
                 margin-left: 0;
             }
+
             .col-lg-6,
             .col-lg-5,
             .col-lg-1 {
                 padding-right: 8px;
                 padding-left: 8px;
             }
+
             #entreprise ul {
                 font-size: 16px !important;
             }
+
             h2.fw-bold {
                 font-size: 1.2rem !important;
             }
@@ -49,17 +53,19 @@
             #entreprise ul {
                 font-size: 14px !important;
             }
+
             h2.fw-bold {
                 font-size: 1rem !important;
             }
+
             .lead {
                 font-size: 0.9rem !important;
             }
+
             .p-3 {
                 padding: 0.5rem !important;
             }
         }
- 
     </style>
 </head>
 
@@ -88,7 +94,7 @@
                 Entreprise
             </h1>
             <div class="text-center mb-5 py-3">
-                <img src="entreprise.jpg" alt="Entreprise Fiatope Invest" class="img-fluid" style="max-width: 100%; height: auto; width: 100%;" loading="lazy">
+                <img src="entreprise.jpg" alt="Entreprise Fiatope Invest" class="img-fluid" style="max-width: 100%; height: auto; width: 100%;" loading="auto">
             </div>
             <div class="container px-4 py-3">
                 <div class="row align-items-start g-5">
@@ -147,7 +153,7 @@
         <div class="container mb-5">
             <h2 class="text-center mb-5 py-3" style="color: white; font-weight: 700; font-size: 2.5rem;">Actionnaire Fiatope Invest</h2>
             <div class="text-center mb-5 py-3">
-                <img src="coequipiers-d-affaires-travaillant-tard.jpg" alt="Actionnaire" class="img-fluid " style="max-width: 100%; height: auto; width: 100%;" loading="lazy">
+                <img src="coequipiers-d-affaires-travaillant-tard.jpg" alt="Actionnaire" class="img-fluid " style="max-width: 100%; height: auto; width: 100%;" loading="auto">
             </div>
             <div class="row align-items-start">
                 <div class="col-lg-6 mb-4">
@@ -181,7 +187,7 @@
         <div class="container">
             <h2 class="text-center mb-5 py-3" style="color: #0a0744ff; font-weight: 700; font-size: 2.5rem;">Investisseur</h2>
             <div class="text-center mb-5 py-3">
-                <img src="un-investisseur-regardant-les-graphiques-de-la-bourse-sur-un-ecran-d-ordinateur.jpg" alt="Investisseur" class="img-fluid " style="max-width: 100%; height: auto; width: 100%;" loading="lazy">
+                <img src="un-investisseur-regardant-les-graphiques-de-la-bourse-sur-un-ecran-d-ordinateur.jpg" alt="Investisseur" class="img-fluid " style="max-width: 100%; height: auto; width: 100%;" loading="auto">
             </div>
 
             <div class="row align-items-start">

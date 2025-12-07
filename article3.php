@@ -14,7 +14,7 @@
 
         }
 
-        #article p  {
+        #article p {
             font-family: 'Inter', sans-serif !important;
             font-weight: 350 !important;
             font-size: 17px;
@@ -89,7 +89,7 @@
                     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                         <div class="col-lg-6">
                             <div class="d-flex justify-content-center">
-                                <img src="un-day-trader-contrarie.jpg" class="img-fluid" alt="Bootstrap Themes" style="width: 500px; height: 330px;" loading="lazy">
+                                <img src="un-day-trader-contrarie.jpg" class="img-fluid" alt="Bootstrap Themes" style="width: 500px; height: 330px;" loading="eager">
                             </div>
                         </div>
                         <div class="col-lg-6">

@@ -82,7 +82,7 @@
     <div class="container col-xxl-8 px-4 py-5">
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="un-employe-des-ressources-humaines-souriant-serre-la-main-d-un-homme-apres-un-entretien.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
+                <img src="un-employe-des-ressources-humaines-souriant-serre-la-main-d-un-homme-apres-un-entretien.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="auto">
             </div>
             <div class="col-lg-6">
                 <h2 class=" fw-bold text-body-emphasis lh-1 mb-3">Accompagner les projets</h2>
@@ -96,7 +96,7 @@
     <div class="container col-xxl-8 px-4 ">
         <div class="row align-items-center g-5 py-5">
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="close-up-d-un-pigiste-afro-americain-avec-des-ecouteurs-sans-fil-dans-une-interview-en-ligne-avec-le-proprietaire-de-la-start-up-et-l-equipe-des-ressources-humaines.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
+                <img src="close-up-d-un-pigiste-afro-americain-avec-des-ecouteurs-sans-fil-dans-une-interview-en-ligne-avec-le-proprietaire-de-la-start-up-et-l-equipe-des-ressources-humaines.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="auto">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Mobiliser la Diaspora</h2>
@@ -114,7 +114,7 @@
                 <p class="lead text-black" style="text-align: justify;"></br>Grâce à l’engagement de ses investisseurs, Fiatope INVEST consolide sa position en tant qu’acteur clé du financement de l’entrepreneuriat africain. Ceux-ci ont la possibilité de devenir actionnaires de Fiatope INVEST pour soutenir durablement ses activités, ou de rejoindre Fiatope Angels afin de participer directement au capital des entreprises accompagnées.</p>
             </div>
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="vue-avant-des-pieces-empilees-avec-de-la-salete-et-des-plantes.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
+                <img src="vue-avant-des-pieces-empilees-avec-de-la-salete-et-des-plantes.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="auto">
             </div>
         </div>
     </div>
@@ -139,7 +139,7 @@
     <div class="container col-xxl-8 px-4 py-5">
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="jeune-homme-et-femme-seance-dans-cafe.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
+                <img src="jeune-homme-et-femme-seance-dans-cafe.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="auto">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Notre savoir Faire</h2>
@@ -153,7 +153,7 @@
     <div class="container col-xxl-8 px-4 ">
         <div class="row align-items-center g-5 py-5">
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="une-equipe-noire-d-ingenieurs-et-de-techniciens-partage-des-idees-dans-une-usine-de-panneaux-solaires.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
+                <img src="une-equipe-noire-d-ingenieurs-et-de-techniciens-partage-des-idees-dans-une-usine-de-panneaux-solaires.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="auto">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">La qualité de notre sourcing</h2>
@@ -173,7 +173,7 @@
                     FIATOPE INVEST, c’est aujourd’hui une équipe qualifiée, animée par l’essor du continent africain et passionnée par la recherche constante de solutions permettant à tous ceux de bonne volonté d’investir pour la réussite de nos pays. </p>
             </div>
             <div class="col-10 col-sm-8 col-lg-6">
-                <img src="un-couple-de-noirs-independants-fait-un-high-five-pour-celebrer-leur-reussite.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
+                <img src="un-couple-de-noirs-independants-fait-un-high-five-pour-celebrer-leur-reussite.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="auto">
             </div>
         </div>
     </div>

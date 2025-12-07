@@ -88,7 +88,7 @@
                     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                         <div class="col-lg-6">
                             <div class="d-flex justify-content-center">
-                                <img src="un-agent-afro-americain-et-son-collegue-analysent-des-preuves-dans-un-salon.jpg" class="img-fluid" alt="Bootstrap Themes" style="width: 550px; height: 340px;" loading="lazy">
+                                <img src="un-agent-afro-americain-et-son-collegue-analysent-des-preuves-dans-un-salon.jpg" class="img-fluid" alt="Bootstrap Themes" style="width: 550px; height: 340px;" loading="eager">
                             </div>
                         </div>
                         <div class="col-lg-6">

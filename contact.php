@@ -15,8 +15,8 @@
         }
 
         .btn {
-            background-color: #08053aff;
-            color: white;
+            background-color: white !important;
+            color: #0a0744ff !important ;
             border: 1px solid #0a0744ff !important;
             border-radius: 10px !important;
             font-weight: 500 !important;
@@ -25,9 +25,8 @@
 
         }
 
-        .btn {
-            background-color: #0a0744ff;
-            transform: scale(1.05);
+        .btn:hover {
+            transform: scale(1.05)!important;
             color: white;
         }
     </style>

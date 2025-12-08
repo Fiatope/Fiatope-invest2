@@ -75,7 +75,7 @@
                                     </div>
                                     <div class="optionalParent">
                                         <div class="clear foot">
-                                            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                                            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Rejoindre">
                                         </div>
                                     </div>
                                 </div>

@@ -145,7 +145,7 @@
                     </div>
 
                     <div class="col-lg-3 col-md-6 mb-4">
-                        <img src="anta.png" alt="Membre équipe" class="rounded-circle mb-3" style="width: 140px; height: 140px; object-fit: cover;">
+                        <img src="Anta.png" alt="Membre équipe" class="rounded-circle mb-3" style="width: 140px; height: 140px; object-fit: cover;">
                         <h4 class="fw-bold" style="color: #0a0744ff; font-size: 1.2rem;">Anta NDIAYE</h4>
                         <p style="color: #030303ff;">Principal</p>
                     </div>
